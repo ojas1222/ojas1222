@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+   <img src="images/ojas.jpg" height="200">
+   <br>
+   ⚡ I am Ojas Rastogi! I am currently in 9th grade and am studying at DPS NOIDA.
+</p>
 
-I am Ojas Rastogi! I am currently in 9th grade and am studying at DPS NOIDA.
+##### 🚀 Checkout my website [here](https://ojas1222.github.io/ojas1222/)!
+
