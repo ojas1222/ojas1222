@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-   <img src="images/ojas.jpg" height="200">
-   <br>
-   ⚡ I am Ojas Rastogi! I am currently in 9th grade and am studying at DPS NOIDA.
+    I am Ojas Rastogi! I am college student and an aspiring software developer , hoping to work on cool projects which help me learn :)
 </p>
 
 ##### 🚀 Checkout my website [here](https://ojas1222.github.io/ojas1222/)!
