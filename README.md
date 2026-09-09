@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi! 
-<p align="center">
+<p>
 I'm Ojas, I am currently a college student and an aspiring software developer.
 
 I'm still exploring different areas of tech, so you'll probably find a mix of projects (both good and bad ones lol), failed experiments, and just random things I'm trying out here.
