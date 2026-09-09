@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi! 
 <p align="center">
-    I am Ojas Rastogi! I am college student and an aspiring software developer , hoping to work on cool projects which help me learn :)
+I'm Ojas, I am currently a college student and an aspiring software developer.
+
+I'm still exploring different areas of tech, so you'll probably find a mix of projects (both good and bad ones lol), failed experiments, and just random things I'm trying out here.
+
+Currently learning, building, and figuring things out as I go :)
 </p>
 
-##### 🚀 Checkout my website [here](https://ojas1222.github.io/ojas1222/)!
 
